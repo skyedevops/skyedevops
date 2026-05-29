@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Taiwo 👋
 
-<!--
-**skyedevops/skyedevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer passionate about:
+- AWS Cloud Infrastructure
+- CI/CD Automation
+- Docker & Kubernetes
+- Linux Administration
+- Infrastructure as Code
+- Monitoring & Reliability
 
-Here are some ideas to get you started:
+## Tech Stack
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Linux
+- Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
