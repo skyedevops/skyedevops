@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/skyedevops/skyedevops/main/assets/banner1.png" />
 
 # Hi, I'm Taiwo 👋
 
@@ -136,18 +136,16 @@ Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, automa
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skyedevops&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyedevops&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skyedev&show_icons=true&theme=github_dark" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyedev&layout=compact&theme=github_dark" />
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=skyedevops&theme=github-dark&hide_border=true" />
 </p>
 
-```
-[![trophy](https://github-profile-trophy.vercel.app/?username=skyedevops&theme=onedark)](https://github.com/skyedevops/github-profile-trophy)
-```
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
 </p>
