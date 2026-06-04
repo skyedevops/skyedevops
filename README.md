@@ -1,3 +1,5 @@
+
+
 # Hi, I'm Taiwo 👋
 
 ### Cloud | DevOps | Infrastructure Engineer
@@ -111,6 +113,13 @@ Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, automa
 * Multi-Cloud Infrastructure Automation
 * GitOps & Platform Engineering
 
+  ## 🌱 Currently Learning
+
+- AWS Cloud Practitioner (CLF-C02)
+- Azure Fundamentals (AZ-900)
+- Kubernetes Administration
+- GitOps & Platform Engineering
+
 ---
 
 ## 🚀 Featured Projects
@@ -136,6 +145,13 @@ Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, automa
   <img src="https://streak-stats.demolab.com?user=skyedevops&theme=github-dark&hide_border=true" />
 </p>
 
+---
+
+<img src="https://github-profile-trophy.vercel.app/?username=skyedevops&theme=darkhub&no-frame=true&row=1" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=skyedevops&style=for-the-badge" />
 
 ---
 
@@ -144,3 +160,4 @@ Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, automa
 * LinkedIn: https://linkedin.com/in/skyedev
 * Portfolio: https://portfolio.skyedev.org
 * Email: admin@skyedev.org
+---
