@@ -145,11 +145,12 @@ Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, automa
   <img src="https://streak-stats.demolab.com?user=skyedevops&theme=github-dark&hide_border=true" />
 </p>
 
----
-
-<img src="https://github-profile-trophy.vercel.app/?username=skyedevops&theme=darkhub&no-frame=true&row=1" />
-
----
+```
+[![trophy](https://github-profile-trophy.vercel.app/?username=skyedevops&theme=onedark)](https://github.com/skyedevops/github-profile-trophy)
+```
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=skyedevops&style=for-the-badge" />
 
