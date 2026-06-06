@@ -121,17 +121,26 @@ Cloud & DevOps Engineer with hands-on experience in cloud infrastructure, automa
 - GitOps & Platform Engineering
 
 ---
+## 🚀 Projects
 
-## 🚀 Featured Projects
+### Cloud & DevOps Projects
 
-| Project                      | Technologies            |
-| ---------------------------- | ----------------------- |
-| Terraform AWS Infrastructure | AWS, Terraform          |
-| Kubernetes Homelab           | Kubernetes, Docker      |
-| CI/CD Automation Pipeline    | GitHub Actions, Jenkins |
-| Monitoring Stack             | Prometheus, Grafana     |
-| Ansible Automation           | Ansible, Linux          |
+* Multi-Cloud Infrastructure Deployment with Terraform
+* Kubernetes Container Orchestration Platform
+* CI/CD Automation Pipeline
+* Infrastructure Monitoring & Observability Stack
+* Automated Configuration Management with Ansible
+* Virtualization & Home Lab Infrastructure
 
+| Project | Technologies |  Description |
+|----------|-------------|-------------|
+| [Terraform AWS Infrastructure](https://github.com/users/skyedevops/projects/4) | AWS, Terraform |  Automated AWS infrastructure deployment using Terraform |
+| [Kubernetes Homelab](https://github.com/skyedevops/project/) | Kubernetes, Docker |  Container orchestration platform with Kubernetes |
+| [CI/CD Pipeline](https://github.com/skyedevops/project/5) | GitHub Actions, Jenkins | Automated deployments using GitHub Actions and Jenkins |
+| [Monitoring Stack](https://github.com/users/skyedevops/projects/6) |  Prometheus, Grafana | Prometheus, Grafana and CloudWatch monitoring solution | 
+| [Ansible Automation](https://github.com/skyedevops/project) | Ansible, Linux |Infrastructure configuration and server provisioning |
+| [Virtualization-Infrastructure-Lab](https://github.com/users/skyedevops/projects/8) | VMware Workstation, Microsoft Hyper-V, Proxmox VE| Design and deployment of multi-hypervisor virtualization platforms |
+ 
 ---
 
 ## 📈 GitHub Statistics
